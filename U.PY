@@ -1,0 +1,8 @@
+detector_plagio_pro/
+│
+├── app.py
+├── requirements.txt
+├── templates/
+│   └── index.html
+└── static/
+    └── style.css
